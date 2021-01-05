@@ -1,0 +1,6 @@
+C:\Users\sourav\Desktop\bgi\Debug\bgi.exe
+C:\Users\sourav\Desktop\bgi\Debug\bgi.pdb
+C:\Users\sourav\Desktop\pendulum\Debug\bgi.exe
+C:\Users\sourav\Desktop\pendulum\Debug\bgi.pdb
+C:\Users\sourav\Desktop\pendulumwwwww\pendulum\Debug\bgi.exe
+C:\Users\sourav\Desktop\pendulumwwwww\pendulum\Debug\bgi.pdb
